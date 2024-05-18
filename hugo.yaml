@@ -59,7 +59,7 @@ params:
     enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: /static/memoji.png
+    imageUrl: https://arobertson.xyz/memoji.png
     imageWidth: 120
     imageHeight: 120
     imageTitle: Andrew
